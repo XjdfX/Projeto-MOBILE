@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjetoBluetooth</string>
+    <string name="hello_world">Hello World</string>
+    <string name="dispositivos_pareados">Dispositivos Pareados</string>
+    <string name="procurar_dispositivos">Procurar Dispositivos</string>
+    <string name="habilitar_visibilidade">Visibilidade</string>
+    <string name="enviar_mensagem">Enviar</string>
+</resources>
